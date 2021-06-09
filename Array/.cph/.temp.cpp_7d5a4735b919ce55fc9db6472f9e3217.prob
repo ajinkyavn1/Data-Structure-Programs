@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"i:\\GITHUB\\Data-Structure-Programs\\Array\\temp.cpp","tests":[{"id":1615614612062,"input":"1\n5\n2 4 1 0 6\n1 2 2 0","output":"1 1 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"i:\\GITHUB\\Data-Structure-Programs\\Array\\temp.cpp","group":"local","local":true}

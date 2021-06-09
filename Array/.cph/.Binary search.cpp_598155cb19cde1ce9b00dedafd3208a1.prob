@@ -1,0 +1,1 @@
+{"name":"Local: Binary search","url":"i:\\GITHUB\\Data-Structure-Programs\\Array\\Binary search.cpp","tests":[{"id":1615568982581,"input":"8\n1 2 3 4 5 6 7 8\n8","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"i:\\GITHUB\\Data-Structure-Programs\\Array\\Binary search.cpp","group":"local","local":true}

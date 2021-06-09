@@ -30,7 +30,7 @@ int main()
 {
 	int arr[10]={10,20,30,40,50,60,70,80,90,100},d,N;
 	N=sizeof(arr)/sizeof(arr[0]);
-	cout<<"Enter index for rotation";
+	cout<<"Enter index for rotation \n Note-: index must less than"<<N<<"==";
 	cin>>d;
 	print(arr,N);
 	rotateByone(arr,N,d);
